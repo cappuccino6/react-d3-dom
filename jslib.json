@@ -1,0 +1,11 @@
+{
+    "name": "react-d3-dom",
+    "npmname": "react-d3-dom",
+    "umdname": "react-d3-dom",
+    "username": "Mr-Yolo",
+    "type": "ts",
+    "module": "umd,esm,commonjs",
+    "test": "mocha",
+    "lang": "en",
+    "version": "1.6.0"
+}
